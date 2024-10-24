@@ -1,0 +1,754 @@
+{
+  "263594": {
+    "image_name": "000000263594.jpg",
+    "label": [
+      "bird",
+      "truck",
+      "car"
+    ]
+  },
+  "334371": {
+    "image_name": "000000334371.jpg",
+    "label": [
+      "person",
+      "traffic light",
+      "car",
+      "bus"
+    ]
+  },
+  "210299": {
+    "image_name": "000000210299.jpg",
+    "label": [
+      "person",
+      "bicycle"
+    ]
+  },
+  "226058": {
+    "image_name": "000000226058.jpg",
+    "label": [
+      "teddy bear",
+      "couch"
+    ]
+  },
+  "215259": {
+    "image_name": "000000215259.jpg",
+    "label": [
+      "person",
+      "remote",
+      "couch"
+    ]
+  },
+  "90956": {
+    "image_name": "000000090956.jpg",
+    "label": [
+      "person",
+      "skis"
+    ]
+  },
+  "98261": {
+    "image_name": "000000098261.jpg",
+    "label": [
+      "bird"
+    ]
+  },
+  "468233": {
+    "image_name": "000000468233.jpg",
+    "label": [
+      "clock"
+    ]
+  },
+  "183709": {
+    "image_name": "000000183709.jpg",
+    "label": [
+      "person",
+      "traffic light",
+      "car",
+      "handbag"
+    ]
+  },
+  "393226": {
+    "image_name": "000000393226.jpg",
+    "label": [
+      "truck",
+      "person",
+      "traffic light",
+      "car"
+    ]
+  },
+  "185890": {
+    "image_name": "000000185890.jpg",
+    "label": [
+      "person",
+      "dining table",
+      "remote",
+      "wine glass"
+    ]
+  },
+  "2923": {
+    "image_name": "000000002923.jpg",
+    "label": [
+      "bird",
+      "boat"
+    ]
+  },
+  "322895": {
+    "image_name": "000000322895.jpg",
+    "label": [
+      "tv",
+      "bowl",
+      "vase",
+      "chair",
+      "couch"
+    ]
+  },
+  "410487": {
+    "image_name": "000000410487.jpg",
+    "label": [
+      "oven"
+    ]
+  },
+  "776": {
+    "image_name": "000000000776.jpg",
+    "label": [
+      "teddy bear",
+      "bed"
+    ]
+  },
+  "560911": {
+    "image_name": "000000560911.jpg",
+    "label": [
+      "person",
+      "suitcase",
+      "cell phone",
+      "couch"
+    ]
+  },
+  "199055": {
+    "image_name": "000000199055.jpg",
+    "label": [
+      "person",
+      "skateboard"
+    ]
+  },
+  "544306": {
+    "image_name": "000000544306.jpg",
+    "label": [
+      "clock"
+    ]
+  },
+  "259382": {
+    "image_name": "000000259382.jpg",
+    "label": [
+      "giraffe"
+    ]
+  },
+  "222863": {
+    "image_name": "000000222863.jpg",
+    "label": [
+      "cow"
+    ]
+  },
+  "450439": {
+    "image_name": "000000450439.jpg",
+    "label": [
+      "kite"
+    ]
+  },
+  "212800": {
+    "image_name": "000000212800.jpg",
+    "label": [
+      "boat",
+      "umbrella",
+      "person"
+    ]
+  },
+  "56127": {
+    "image_name": "000000056127.jpg",
+    "label": [
+      "bench",
+      "oven",
+      "sink",
+      "refrigerator",
+      "cup"
+    ]
+  },
+  "35326": {
+    "image_name": "000000035326.jpg",
+    "label": [
+      "knife",
+      "bottle",
+      "oven"
+    ]
+  },
+  "407868": {
+    "image_name": "000000407868.jpg",
+    "label": [
+      "person",
+      "frisbee",
+      "kite",
+      "bench"
+    ]
+  },
+  "441543": {
+    "image_name": "000000441543.jpg",
+    "label": [
+      "person",
+      "backpack",
+      "umbrella",
+      "cell phone"
+    ]
+  },
+  "5586": {
+    "image_name": "000000005586.jpg",
+    "label": [
+      "person",
+      "tennis racket"
+    ]
+  },
+  "7816": {
+    "image_name": "000000007816.jpg",
+    "label": [
+      "person",
+      "motorcycle"
+    ]
+  },
+  "23272": {
+    "image_name": "000000023272.jpg",
+    "label": [
+      "cat",
+      "car"
+    ]
+  },
+  "241668": {
+    "image_name": "000000241668.jpg",
+    "label": [
+      "tie",
+      "person",
+      "cake",
+      "chair"
+    ]
+  },
+  "520659": {
+    "image_name": "000000520659.jpg",
+    "label": [
+      "person",
+      "surfboard",
+      "umbrella",
+      "chair"
+    ]
+  },
+  "332570": {
+    "image_name": "000000332570.jpg",
+    "label": [
+      "person",
+      "cell phone"
+    ]
+  },
+  "282912": {
+    "image_name": "000000282912.jpg",
+    "label": [
+      "giraffe"
+    ]
+  },
+  "575243": {
+    "image_name": "000000575243.jpg",
+    "label": [
+      "person",
+      "traffic light",
+      "car",
+      "umbrella"
+    ]
+  },
+  "65350": {
+    "image_name": "000000065350.jpg",
+    "label": [
+      "person",
+      "bicycle",
+      "car",
+      "skateboard",
+      "backpack"
+    ]
+  },
+  "279145": {
+    "image_name": "000000279145.jpg",
+    "label": [
+      "potted plant",
+      "cat",
+      "bench"
+    ]
+  },
+  "406129": {
+    "image_name": "000000406129.jpg",
+    "label": [
+      "person",
+      "tennis racket",
+      "sports ball"
+    ]
+  },
+  "314182": {
+    "image_name": "000000314182.jpg",
+    "label": [
+      "broccoli",
+      "carrot",
+      "bowl"
+    ]
+  },
+  "197870": {
+    "image_name": "000000197870.jpg",
+    "label": [
+      "bird",
+      "person",
+      "bench"
+    ]
+  },
+  "4134": {
+    "image_name": "000000004134.jpg",
+    "label": [
+      "tie",
+      "person",
+      "dining table",
+      "wine glass",
+      "chair"
+    ]
+  },
+  "357430": {
+    "image_name": "000000357430.jpg",
+    "label": [
+      "pizza"
+    ]
+  },
+  "546829": {
+    "image_name": "000000546829.jpg",
+    "label": [
+      "dog",
+      "bench"
+    ]
+  },
+  "252294": {
+    "image_name": "000000252294.jpg",
+    "label": [
+      "bed",
+      "person",
+      "cup"
+    ]
+  },
+  "323571": {
+    "image_name": "000000323571.jpg",
+    "label": [
+      "truck",
+      "traffic light",
+      "car"
+    ]
+  },
+  "533536": {
+    "image_name": "000000533536.jpg",
+    "label": [
+      "tv",
+      "cat"
+    ]
+  },
+  "474164": {
+    "image_name": "000000474164.jpg",
+    "label": [
+      "truck",
+      "dog",
+      "car"
+    ]
+  },
+  "546556": {
+    "image_name": "000000546556.jpg",
+    "label": [
+      "sheep"
+    ]
+  },
+  "137106": {
+    "image_name": "000000137106.jpg",
+    "label": [
+      "bed",
+      "person"
+    ]
+  },
+  "553221": {
+    "image_name": "000000553221.jpg",
+    "label": [
+      "person",
+      "surfboard",
+      "kite"
+    ]
+  },
+  "239274": {
+    "image_name": "000000239274.jpg",
+    "label": [
+      "boat",
+      "person"
+    ]
+  },
+  "465836": {
+    "image_name": "000000465836.jpg",
+    "label": [
+      "backpack",
+      "person",
+      "skis"
+    ]
+  },
+  "248284": {
+    "image_name": "000000248284.jpg",
+    "label": [
+      "person",
+      "traffic light",
+      "umbrella",
+      "handbag"
+    ]
+  },
+  "178618": {
+    "image_name": "000000178618.jpg",
+    "label": [
+      "elephant"
+    ]
+  },
+  "61333": {
+    "image_name": "000000061333.jpg",
+    "label": [
+      "bed",
+      "cat",
+      "book"
+    ]
+  },
+  "61268": {
+    "image_name": "000000061268.jpg",
+    "label": [
+      "person",
+      "traffic light",
+      "handbag",
+      "train"
+    ]
+  },
+  "380706": {
+    "image_name": "000000380706.jpg",
+    "label": [
+      "person",
+      "car",
+      "motorcycle",
+      "bus",
+      "traffic light"
+    ]
+  },
+  "15335": {
+    "image_name": "000000015335.jpg",
+    "label": [
+      "person",
+      "cell phone",
+      "cup",
+      "bowl",
+      "couch"
+    ]
+  },
+  "429761": {
+    "image_name": "000000429761.jpg",
+    "label": [
+      "person",
+      "tennis racket"
+    ]
+  },
+  "430286": {
+    "image_name": "000000430286.jpg",
+    "label": [
+      "bed",
+      "remote"
+    ]
+  },
+  "257084": {
+    "image_name": "000000257084.jpg",
+    "label": [
+      "person",
+      "chair",
+      "skateboard"
+    ]
+  },
+  "289659": {
+    "image_name": "000000289659.jpg",
+    "label": [
+      "giraffe"
+    ]
+  },
+  "434297": {
+    "image_name": "000000434297.jpg",
+    "label": [
+      "broccoli",
+      "carrot",
+      "sandwich"
+    ]
+  },
+  "138550": {
+    "image_name": "000000138550.jpg",
+    "label": [
+      "dining table",
+      "fire hydrant",
+      "chair"
+    ]
+  },
+  "184400": {
+    "image_name": "000000184400.jpg",
+    "label": [
+      "traffic light",
+      "train"
+    ]
+  },
+  "91654": {
+    "image_name": "000000091654.jpg",
+    "label": [
+      "bowl",
+      "spoon",
+      "dining table"
+    ]
+  },
+  "376310": {
+    "image_name": "000000376310.jpg",
+    "label": [
+      "sink",
+      "toilet"
+    ]
+  },
+  "323355": {
+    "image_name": "000000323355.jpg",
+    "label": [
+      "person",
+      "pizza"
+    ]
+  },
+  "484404": {
+    "image_name": "000000484404.jpg",
+    "label": [
+      "chair",
+      "person",
+      "bus"
+    ]
+  },
+  "60052": {
+    "image_name": "000000060052.jpg",
+    "label": [
+      "person",
+      "umbrella"
+    ]
+  },
+  "41888": {
+    "image_name": "000000041888.jpg",
+    "label": [
+      "bird"
+    ]
+  },
+  "286458": {
+    "image_name": "000000286458.jpg",
+    "label": [
+      "teddy bear",
+      "suitcase",
+      "backpack"
+    ]
+  },
+  "68933": {
+    "image_name": "000000068933.jpg",
+    "label": [
+      "zebra"
+    ]
+  },
+  "46497": {
+    "image_name": "000000046497.jpg",
+    "label": [
+      "boat",
+      "person"
+    ]
+  },
+  "561958": {
+    "image_name": "000000561958.jpg",
+    "label": [
+      "person",
+      "skis",
+      "snowboard"
+    ]
+  },
+  "574315": {
+    "image_name": "000000574315.jpg",
+    "label": [
+      "person",
+      "laptop",
+      "keyboard",
+      "cat",
+      "couch"
+    ]
+  },
+  "162366": {
+    "image_name": "000000162366.jpg",
+    "label": [
+      "parking meter"
+    ]
+  },
+  "114907": {
+    "image_name": "000000114907.jpg",
+    "label": [
+      "truck",
+      "person",
+      "cow"
+    ]
+  },
+  "289960": {
+    "image_name": "000000289960.jpg",
+    "label": [
+      "person",
+      "kite"
+    ]
+  },
+  "356261": {
+    "image_name": "000000356261.jpg",
+    "label": [
+      "horse"
+    ]
+  },
+  "225184": {
+    "image_name": "000000225184.jpg",
+    "label": [
+      "dog",
+      "sheep"
+    ]
+  },
+  "181542": {
+    "image_name": "000000181542.jpg",
+    "label": [
+      "person",
+      "car",
+      "motorcycle",
+      "bus",
+      "truck"
+    ]
+  },
+  "463647": {
+    "image_name": "000000463647.jpg",
+    "label": [
+      "truck"
+    ]
+  },
+  "193429": {
+    "image_name": "000000193429.jpg",
+    "label": [
+      "person",
+      "snowboard"
+    ]
+  },
+  "350019": {
+    "image_name": "000000350019.jpg",
+    "label": [
+      "suitcase",
+      "person"
+    ]
+  },
+  "117744": {
+    "image_name": "000000117744.jpg",
+    "label": [
+      "person",
+      "tennis racket"
+    ]
+  },
+  "133343": {
+    "image_name": "000000133343.jpg",
+    "label": [
+      "tie",
+      "person"
+    ]
+  },
+  "384850": {
+    "image_name": "000000384850.jpg",
+    "label": [
+      "toilet"
+    ]
+  },
+  "472375": {
+    "image_name": "000000472375.jpg",
+    "label": [
+      "dog",
+      "motorcycle",
+      "cup"
+    ]
+  },
+  "419882": {
+    "image_name": "000000419882.jpg",
+    "label": [
+      "train"
+    ]
+  },
+  "274219": {
+    "image_name": "000000274219.jpg",
+    "label": [
+      "tie",
+      "person"
+    ]
+  },
+  "437392": {
+    "image_name": "000000437392.jpg",
+    "label": [
+      "toilet"
+    ]
+  },
+  "292225": {
+    "image_name": "000000292225.jpg",
+    "label": [
+      "person",
+      "tennis racket"
+    ]
+  },
+  "189775": {
+    "image_name": "000000189775.jpg",
+    "label": [
+      "person",
+      "tennis racket",
+      "chair"
+    ]
+  },
+  "480985": {
+    "image_name": "000000480985.jpg",
+    "label": [
+      "person",
+      "motorcycle"
+    ]
+  },
+  "97585": {
+    "image_name": "000000097585.jpg",
+    "label": [
+      "vase"
+    ]
+  },
+  "472298": {
+    "image_name": "000000472298.jpg",
+    "label": [
+      "boat",
+      "person"
+    ]
+  },
+  "271471": {
+    "image_name": "000000271471.jpg",
+    "label": [
+      "person",
+      "banana"
+    ]
+  },
+  "281409": {
+    "image_name": "000000281409.jpg",
+    "label": [
+      "baseball glove",
+      "person",
+      "chair",
+      "baseball bat"
+    ]
+  },
+  "531135": {
+    "image_name": "000000531135.jpg",
+    "label": [
+      "baseball glove"
+    ]
+  },
+  "568213": {
+    "image_name": "000000568213.jpg",
+    "label": [
+      "person",
+      "frisbee"
+    ]
+  }
+}
